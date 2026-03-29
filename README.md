@@ -1,7 +1,7 @@
 # Manuele Albano – Technical Writing Portfolio
 
 ## About Me
-I'm Tech writer with experience writing both internal and customer-facing documentation for SaaS.
+I'm technical writer with experience writing both internal and customer-facing documentation for SaaS.
 
 ## Writing Samples
 - Feature set up articles
