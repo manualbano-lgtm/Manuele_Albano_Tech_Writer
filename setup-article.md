@@ -4,7 +4,7 @@
 Step-by-step guide to setting up a complex feature in Personio.
 
 ## Screenshot
-![Set up article](/assets/images/set-up-article.png)
+![Set up article](/assets/images/Set-up-article.png)
 
 ## Excerpt
 
