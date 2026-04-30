@@ -1,3 +1,7 @@
+---
+title: Feature Setup Guide
+nav_order: 3
+---
 # Feature Setup Guide
 
 ## Context
