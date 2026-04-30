@@ -1,7 +1,7 @@
 # Documentation Portfolio
 
 ## Setup article
-- [Setup article](setup-article.md)
+- [Set up Career Frameworks](setup-article.md)
   
 ## Overview article
-- [Overview article](overview-article.md)
+- [Overview of the Performance area](overview-article.md)
