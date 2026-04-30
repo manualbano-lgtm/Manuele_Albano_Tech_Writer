@@ -6,7 +6,7 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-logo: /assets/images/profile.png
+logo: /assets/images/profile.jpg
 
 url: https://manualbano-lgtm.github.io
 
