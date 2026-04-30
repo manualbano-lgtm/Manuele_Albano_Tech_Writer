@@ -1,14 +1,9 @@
-## About Me
+title: Home
+nav_order: 1
+---
+# Manuele Albano
+
 I'm technical writer with experience writing both internal and customer-facing documentation for SaaS.
 
-## Tools & Skills
-Markdown, Git, HTML, Zendesk.
-Information architecture (Dita).
+Welcome to my portfolio.
 
-## Portfolio
-Explore writing samples with real-world documentation structure:
-
-➡️ [View Portfolio](portfolio.md)
-
-## Contact
-Email:manu.albano@gmail.com
