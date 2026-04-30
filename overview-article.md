@@ -1,8 +1,8 @@
 ---
-title: Feature Setup Guide
+title: Feature overview guide
 nav_order: 3
 ---
-# Feature Setup Guide
+# Feature overview guide
 
 ## Context
 An overview of a specific product area. The focus is on customer value and usability.
