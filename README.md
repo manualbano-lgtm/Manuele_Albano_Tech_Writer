@@ -12,5 +12,10 @@ I'm technical writer with experience writing both internal and customer-facing d
 Markdown, Git, HTML, Zendesk.
 Information architecture (Dita).
 
+## Portfolio
+Explore writing samples with real-world documentation structure:
+
+➡️ [View Portfolio](portfolio.md)
+
 ## Contact
 Email:manu.albano@gmail.com
