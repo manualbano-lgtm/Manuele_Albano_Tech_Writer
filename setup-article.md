@@ -1,4 +1,8 @@
-# Feature Setup Guide
+---
+title: Feature setup guide
+nav_order: 3
+---
+# Feature setup guide
 
 ## Context
 Step-by-step guide to setting up a complex feature in Personio.
