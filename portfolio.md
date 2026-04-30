@@ -1,7 +1,8 @@
-# Documentation Portfolio
+---
+title: Portfolio
+nav_order: 2
+---
 
-## Setup article
+# Portfolio
 - [Set up Career Frameworks](setup-article.md)
-  
-## Overview article
 - [Overview of the Performance area](overview-article.md)
