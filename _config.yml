@@ -2,12 +2,23 @@ title: Manuele Albano – Technical Writer
 description: Technical writing portfolio
 
 remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
 logo: /assets/images/profile.png
 
 url: https://manualbano-lgtm.github.io
 
+# Footer links (optional but useful)
 aux_links:
   GitHub: https://github.com/yourusername
 
-plugins:
-  - jekyll-remote-theme
+# Sidebar / navigation ordering
+nav_sort: case_sensitive
+
+# Optional: better spacing for docs feel
+heading_anchors: true
+
+# Optional: improves search behavior
+search_enabled: true
