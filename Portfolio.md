@@ -1,7 +1,7 @@
 # Documentation Portfolio
 
 ## Setup article
-- [Feature Setup article](set-up-article.md)
+- [Feature Setup article](setup-article.md)
 
 ## Reference article
 - [Reference article](reference-article.md)
