@@ -1,6 +1,7 @@
 ---
-title: Feature overview guide
-nav_order: 3
+title: Overview article
+parent: Portfolio
+nav_order: 1
 ---
 # Feature overview guide
 
