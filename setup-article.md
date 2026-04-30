@@ -1,6 +1,7 @@
 ---
-title: Feature setup guide
-nav_order: 3
+title: Setup Article
+parent: Portfolio
+nav_order: 2
 ---
 # Feature setup guide
 
