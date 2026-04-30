@@ -1,6 +1,11 @@
 title: Manuele Albano – Technical Writer
-theme: jekyll-theme-slate
+description: Technical writing portfolio
 
-header_pages:
-  - index.md
-  - portfolio.md
+theme: just-the-docs
+
+url: https://manualbano-lgtm.github.io
+
+logo: /assets/images/profile.png
+
+aux_links:
+  Portfolio on GitHub: https://github.com/manualbano-lgtm
