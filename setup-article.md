@@ -4,7 +4,7 @@
 Step-by-step guide to setting up a complex feature in Personio.
 
 ## Screenshot
-![Docker Install](/assets/images/set-up-article.png)
+![Set up article](/assets/images/set-up-article.png)
 
 ## Excerpt
 
