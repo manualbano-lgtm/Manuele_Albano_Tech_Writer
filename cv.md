@@ -38,6 +38,7 @@ Working Experience
     
 
 
+
 #### Keywords Studios (Senior Localization Project Manager, 2019/12 - 2022/02)
 
 *   Acting as client-side PM, coordinating localization operations for four different games in up to 16 languages (EU and SEA)
@@ -46,6 +47,7 @@ Working Experience
 
 *   In charge of process and workflow improvement proposals, giving constant feedback to the client's engineering team to streamline the localization workflow and improve proprietary tools.
     
+
 
 
 #### Keywords Studios (Localization Project Manager, 2018/02 - 2019/12)
@@ -61,6 +63,7 @@ Working Experience
 *  Risk management: managing risks and communicating them to stakeholders throughout the project
 
 *  Financial management: invoicing for both clients and vendors
+
 
 
 
@@ -94,12 +97,14 @@ Education & Qualifications
 *   BA degree in literature (Università degli Studi di Verona, October 2007)
     
 
+
 Misc. Information
 -----------------
 
 *   Languages: English (Fluent), Spanish (Fluent), Italian (Native)
     
 *   Availability: 2 month's notice
+
 
 
 ## Tools
