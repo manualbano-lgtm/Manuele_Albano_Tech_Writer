@@ -2,7 +2,7 @@
 title: CV
 nav_order: 3
 ---
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/manualbano-lgtm/assets/images/profile.jpeg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/Manuele_Albano_Tech_Writer/assets/images/profile.jpeg" />
 
 <span style="float:right;padding:6px"> 
   manu.albano@gmail.com <br> Nationality: Italian
