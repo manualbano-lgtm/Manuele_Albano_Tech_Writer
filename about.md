@@ -13,8 +13,8 @@ I have 5 years of experience writing customer-facing documentation for Saas, and
 
 * Internal and customer-facing documentation
   
-* Hands-on experience in Information Architecture (templating, tagging, taxonomy)
+* Information Architecture (templating, tagging, taxonomy)
   
-* Designed AI-powered content pipelines
+* AI-powered content pipelines
   
-* Proficient in Zendesk, Confluence, Jira
+* Tooling (Zendesk, Confluence, Jira)
