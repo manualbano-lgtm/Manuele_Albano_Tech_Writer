@@ -2,7 +2,9 @@
 title: CV
 nav_order: 3
 ---
-![profile](assets/images/profile.jpeg)
+<img src="assets/images/profile.jpeg"
+     style="float:right;width:50px;border-radius:50%;padding:6px;" />
+
 
 <span style="float:right;padding:6px"> 
   manu.albano@gmail.com <br> Nationality: Italian
