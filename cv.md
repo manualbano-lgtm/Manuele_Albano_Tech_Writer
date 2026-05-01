@@ -24,7 +24,7 @@ Working Experience
 ------------------
 
 
-#### Personio (Senior Content Developer, 2022/03 - present)
+### Personio (Senior Content Developer, 2022/03 - present)
 
 * Wrote customer-facing documentation and tutorials
   
@@ -39,7 +39,7 @@ Working Experience
 
 
 
-#### Keywords Studios (Senior Localization Project Manager, 2019/12 - 2022/02)
+### Keywords Studios (Senior Localization Project Manager, 2019/12 - 2022/02)
 
 *   Acting as client-side PM, coordinating localization operations for four different games in up to 16 languages (EU and SEA)
 
@@ -50,7 +50,7 @@ Working Experience
 
 
 
-#### Keywords Studios (Localization Project Manager, 2018/02 - 2019/12)
+### Keywords Studios (Localization Project Manager, 2018/02 - 2019/12)
 
 *  In charge of multiple A-list accounts, coordinating projects with up to 30 languages, with both in-house teams and freelancers
 
@@ -67,7 +67,7 @@ Working Experience
 
 
 
-#### Webzen LTD (Assistant Localization Manager, 2016/06 - 2018/02)
+### Webzen LTD (Assistant Localization Manager, 2016/06 - 2018/02)
 
 *   Supervisor of the in-house translation team
 
