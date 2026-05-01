@@ -18,15 +18,6 @@ Senior Writer with 5 years of experience writing customer-facing documentation f
 * Designed AI-powered content pipelines
 * Proficient in Zendesk, Confluence, Jira
 
-## Working Experience
-
-## Experience
-Technical Writer – Personio
-- Wrote customer-facing documentation and tutorials  
-- Documented internal processes on Confluence
-- Participated in defining the company's information achitecture (templates, tags, HC navigation)
-- Created multimedia content with Clueso
-
 Working Experience
 ------------------
 
