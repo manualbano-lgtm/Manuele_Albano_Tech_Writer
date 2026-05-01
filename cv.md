@@ -10,7 +10,6 @@ nav_order: 3
 
 # Manuele Albano
 
-## Executive Summary
 Senior Writer with 5 years of experience writing customer-facing documentation for Saas. I have a solid background in localization and project management.
 
 * Internal and customer-facing documentation
@@ -21,14 +20,20 @@ Senior Writer with 5 years of experience writing customer-facing documentation f
 Working Experience
 ------------------
 
+
 #### Personio (Senior Content Developer, 2022/03 - present)
 
 * Wrote customer-facing documentation and tutorials
+  
 * Documented internal processes on Confluence
+  
 * Helped defining the company's information achitecture (templates, tags, HC navigation)
+  
 * Implemented the first AI-powered content creation pipeline
+  
 * Created multimedia content with Clueso
     
+
 
 #### Keywords Studios (Senior Localization Project Manager, 2019/12 - 2022/02)
 
@@ -36,6 +41,7 @@ Working Experience
 *   In charge of overseeing the expansion of localization operations from one to four games: assessing risk, negotiating the schedule with the client, helping with the tools setup.
 *   In charge of process and workflow improvement proposals, giving constant feedback to the client's engineering team to streamline the localization workflow and improve proprietary tools.
     
+
 
 #### Keywords Studios (Localization Project Manager, 2018/02 - 2019/12)
 
@@ -45,6 +51,7 @@ Working Experience
 *  Resource management: participating in the on-boarding process for new resources, negotiating rates
 *  Risk management: managing risks and communicating them to stakeholders throughout the project
 *  Financial management: invoicing for both clients and vendors
+
 
 
 #### Webzen LTD (Assistant Localization Manager, 2016/06 - 2018/02)
