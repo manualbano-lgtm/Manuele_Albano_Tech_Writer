@@ -12,15 +12,7 @@ nav_order: 3
 
 # Manuele Albano
 
-Senior Writer with 5 years of experience writing customer-facing documentation for Saas. I have a solid background in localization and project management.
-
-* Internal and customer-facing documentation
-  
-* Hands-on experience in Information Architecture (templating, tagging, taxonomy)
-  
-* Designed AI-powered content pipelines
-  
-* Proficient in Zendesk, Confluence, Jira
+Senior Writer with 5 years of experience writing customer-facing documentation for Saas.
 
 Working Experience
 ------------------
