@@ -1,7 +1,7 @@
 ---
 title: Product update note
 parent: Portfolio
-nav_order: 1
+nav_order: 3
 ---
 # Product update note
 
