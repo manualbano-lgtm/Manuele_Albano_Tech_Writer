@@ -3,7 +3,7 @@ title: Product update note
 parent: Portfolio
 nav_order: 1
 ---
-# Feature overview guide
+# Product update note
 
 ## Context
 A short snippet to introduce a product improvement. 
