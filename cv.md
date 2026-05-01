@@ -3,7 +3,7 @@ title: CV
 nav_order: 3
 ---
 <img src="assets/images/profile.jpeg"
-     style="float:right;width:80px;border-radius:50%;padding:6px;" />
+     style="float:right;width:100px;border-radius:50%;padding:6px;" />
 
 
 <span style="float:right;padding:6px"> 
