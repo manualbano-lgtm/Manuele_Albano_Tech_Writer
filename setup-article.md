@@ -44,6 +44,6 @@ Learn to set up a job architecture in our  [dedicated article](https://support.p
 You can import an existing framework into Personio with our AI import functionality. To activate the functionality, follow these steps:
 
 1.  Go to  **Settings**.
-2.  In the  **Account** section,  **click AI features**.
+2.  In the  **Account** section, click **AI features**.
 3.  Enable the toggle next to  **AI features**.
 
